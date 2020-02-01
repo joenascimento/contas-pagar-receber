@@ -47,7 +47,7 @@ return [
             'username' => 'root',
             'password' => 'linux',
 
-            'database' => 'dev',
+            'database' => 'dev_contas',
             /**
              * If not using the default 'public' schema with the PostgreSQL driver
              * set it here.
